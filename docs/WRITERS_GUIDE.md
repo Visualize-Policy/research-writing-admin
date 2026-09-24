@@ -1,15 +1,3 @@
-> **This is a copy, not the source of truth.** The original lives at
-> `docs/WRITERS_GUIDE.md` in `wtdickens/health-dashboard` (the code repo — this copy exists so
-> the guide's own audience, research/writing volunteers, can read it without needing code-repo
-> access). Copied here on 2026-09-24, at commit `5f4efdd`. If the two ever disagree, the
-> health-dashboard original is authoritative.
->
-> Unlike some of the other copied docs in this folder, this one's real audience is entirely this
-> repo — worth considering making *this* copy the source of truth instead, the next time it needs a
-> real edit, rather than maintaining the asymmetry.
-
----
-
 # Guide for Researcher-Writers: Working on GitHub in Your Browser
 
 This is a **tutorial, not just a reference** — follow along and actually do each step as you read
