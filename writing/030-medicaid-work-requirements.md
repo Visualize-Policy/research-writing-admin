@@ -22,6 +22,7 @@ On November 19, 2026, a coalition of 19 states and the District of Columbia subm
 https://www.beckershospitalreview.com/finance/19-states-push-for-6-month-delay-in-medicaid-work-requirement-implementation/
 
 2.) Lawsuits. Besides Massachusetts v. Oz (decided Oct 29, 2026), what other cases challenge the work requirements or the rule that implements them? Who brought each, where, and what's its status?
+
 On September 18, 2026, five Medicaid beneficiaries, several medical organizations, and the City of Columbus, Ohio, filed a lawsuit, Taylor et al. v. Kennedy et al., in the U.S. District Court for the District of Maryland. The plaintiffs argue that provisions of the interim final rule (IFR) issued by the Centers for Medicare & Medicaid Services (CMS) violate the Administrative Procedure Act (APA) by unlawfully narrowing the statutory definition of “medically frail individuals.” According to the plaintiffs, this narrower definition would result in an estimated 30% increase in the number of individuals who would lose Medicaid coverage for which they would otherwise qualify. The plaintiffs further contend that the rule imposes additional documentation and verification requirements that are not authorized by Congress. As of November 25, 2026, the case remains pending, with the federal defendants’ reply due on December 2, 2026.
 
 https://healthlaw.org/wp-content/uploads/2026/09/Taylor-et-al.-v.-Kennedy-Jr.-et-al_Complaint.pdf 
